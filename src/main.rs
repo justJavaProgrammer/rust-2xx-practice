@@ -4,6 +4,7 @@ mod chapter5;
 mod chapter6;
 mod practice6;
 mod practice7;
+mod practice8;
 
 fn main() {
     println!("Hello, world!");
